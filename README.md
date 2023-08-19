@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a full-time iOS developer.<br>🌱 I'm learning Swift and Obj-C. I also dabble in NodeJS and ReactJS in my free time.<br>⚡ Fun fact: life is short, but sometimes you just need to sit back, relax, and enjoy the beauty of life.
+🔭 I'm currently a full-time iOS developer.<br>🌱 I'm learning Swift and Obj-C. I also dabble in NodeJS and React Native in my free time.<br>⚡ Just sit back, relax, and question why did you write this code.
 
 
 # 💻 Tech Stack:
